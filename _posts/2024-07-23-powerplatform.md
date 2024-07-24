@@ -22,7 +22,7 @@ The Power Platform is a suite of business applications designed to empower organ
 
 **Copilot Studio:** Helps transform customer and employee experience when building custom copilots.
 
-![title](/assets/powerplatforms.jpg))
+![title](/assets/powerplatforms.jpg)
 
 ## Why Microsoft Power Platform?
 
